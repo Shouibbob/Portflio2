@@ -1,0 +1,11 @@
+footer{
+    height: 15rem;
+    background: #333;
+    color: #fff;
+}
+
+.details{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 6rem;
+}

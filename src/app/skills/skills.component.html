@@ -1,0 +1,21 @@
+<div class="section2">
+    <div class="tit">
+        <h1>{{Title}}</h1>
+    </div>
+     <div class="desc3">
+        {{description}}     
+      </div>
+    <div class="skill">
+            <div class="myfocus">
+                <h3>{{Focus.T1}}</h3>
+                <hr>
+                <p>{{Focus.T2}}</p>
+                <p>{{Focus.T3}}</p>
+                <p>{{Focus.T4}}</p>
+                <p>{{Focus.T5}}</p>
+            </div>
+            <div class="exp">
+                <div *ngFor="let items of item" [ngClass]="items.class1"><div [ngClass]="items.class2">{{items.body}}</div><div [ngClass]="items.class3"></div></div>
+            </div>
+    </div>
+  </div>

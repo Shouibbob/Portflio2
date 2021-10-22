@@ -1,0 +1,19 @@
+.cust{
+    background: red;
+    width: auto;
+    height: 30rem;
+    background-image: url(../../assets/shoib.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.cont{
+    padding-top: 13rem;
+    padding-left: 6rem;
+}
+
+.name{
+    font-size: 20px;
+    font-weight: bolder;
+}

@@ -1,0 +1,44 @@
+.secton3{
+    height: 50rem;
+}
+
+.secton3 h1{
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+
+.cont4{
+    height: 30%;
+    width: 80%;
+    margin-left: 7rem;
+    margin-top: 1rem;
+    
+}
+
+.dit{
+    display: inline-block;
+    margin: auto 20px;
+    height: 15rem;
+    width: 15rem;
+    box-shadow: 10px 10px #000;
+    text-align: center !important;
+    margin-top: 40px !important;
+}
+
+.cont5{
+    height: 100%;
+    width: 100%;
+    margin-top: 3rem;
+}
+
+.child{
+    margin-top: 4rem;
+    border-bottom: 2px solid #fff;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+.Class2{
+    max-width: 2rem;
+}
